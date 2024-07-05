@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k8KNf6FYLtltoszulxB43bYlGItvkquigA7mpiE9E0w=",
+  "Source": "AzureImageSearch",
+  "BasePath": "_content/AzureImageSearch",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
